@@ -1,0 +1,9 @@
+---
+joe = this is my name
+show = this is my friend
+---
+fruits:
+- Apple
+- Banana
+- Grapes
+...
